@@ -4,7 +4,7 @@
 
 #define COUNT 100
 #define MAX_RANDOM 1000
-
+// add note
 static int compare_ints(const void *a, const void *b)
 {
     int x = *(const int *)a;
